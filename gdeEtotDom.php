@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="css/normalize.css">
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+        <link rel="stylesheet" href="css/domstyle.css">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <script src="js/bootstrap.min.js"></script>
+        <title>Гдеэтотдом</title> 
+    </head> 
+    <body>  
+        <!-- Меню по сайту  -->
+        <div class="wrapper_page">
+            <header>
+                <ul class="header__menu">
+                    <li><a href="#">МОсква и МО</a></li>
+                    <li><a href="#">С-Петербург и ЛО</a></li>
+                    <li><a href="#">Другие регионы</a></li>
+                    <li><a href="#">Зарубежная недвижимость</a></li>
+                    <li><a href="#">Поиск по карте</a></li>
+                </ul>
+                <ul class="header__menu header__menu__left">
+                    <li><button>Разместить объявление</button></li> 
+                    <li><button>Зарегистрироваться</button></li>
+                    <li><button>Войти</button></li>
+                </ul>
+                <ul class="header__menu__site">
+                    <li><a href="#"><img src="" alt="логотип"></a></li>
+                    <li><a href="#">Продажа</a></li>
+                    <li><a href="#">Аренда</a></li>
+                    <li><a href="#">Спецпредложения</a></li>
+                    <li><a href="#">Новостройки</a></li>
+                    <li><a href="#">Посёлки</a></li>
+                    <li><a href="#">Риэлторы</a></li>
+                    <li><a href="#">Журнал</a></li>
+                    <li><a href="#"></a><img src="" alt="логотип"></li>
+                </ul>
+            </header>
+        </div>       
+    </body>
+</html>
+
+

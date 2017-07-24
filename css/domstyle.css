@@ -1,0 +1,27 @@
+.wrapper_page .header__menu {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+.wrapper_page .header__menu li {
+  display: inline-block;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+.wrapper_page .header__menu li a {
+  color: #878888;
+  text-decoration: none;
+}
+.wrapper_page .header__menu li button {
+  border: none;
+  background: none;
+  color: #878888;
+}
+.wrapper_page .header__menu li:hover,
+.wrapper_page .header__menu li:active {
+  text-decoration: none;
+}
+.wrapper_page .header__menu__left {
+  float: right;
+}
+/*# sourceMappingURL=domstyle.css.map */
